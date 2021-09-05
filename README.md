@@ -1,6 +1,5 @@
 ### Olá, eu sou o Yuri Gimenez 👋😉
 
-- 🔭 Atualmente estou trabalhando com front-end.
 - 📫 Email para contato: yuri.gimenez23@gmail.com
 
 <div>
