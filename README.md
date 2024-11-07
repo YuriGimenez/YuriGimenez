@@ -1,4 +1,4 @@
-### Olá, eu sou o Yuri Gimenez 👋😉
+### Olá, eu sou o Yuri Gabriel Primo Gimenez 👋😉
 
 - 📫 Email para contato: yuri.gimenez23@gmail.com
 
